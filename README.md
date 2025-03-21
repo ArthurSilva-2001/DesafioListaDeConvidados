@@ -10,7 +10,7 @@ O problema central envolve a otimização da seleção e alocação de 100 convi
 - **Organização estratégica das mesas** (considerando categorias, idades e scores);
 - **Disponibilidade para transporte VIP**.
 
-## Resolução Empírica
+## Dados da Resolução
 Para resolver o problema empiricamente, consideramos as seguintes etapas:
 
 ### 1. Identificação dos Participantes
@@ -41,10 +41,8 @@ Para os convidados elegíveis ao transporte em limousine, consideramos:
 - **Otimização das rotas para melhor aproveitamento do transporte**.
 
 ## Considerações Finais
-O desafio da Lista de Convidados VIP exige organização estratégica e análise criteriosa para garantir uma festa bem estruturada e agradável para todos. A solução ideal deve equilibrar eficiência, personalização e logística, garantindo que:
+A solução ideal deve equilibrar eficiência, personalização e logística, garantindo que:
 - Os convidados mais próximos do aniversariante sejam priorizados;
 - A experiência da festa seja harmoniosa e personalizada;
 - A logística de acomodação e transporte seja otimizada.
-
-Essa abordagem não apenas resolve o problema de forma prática, mas também reflete a importância de um planejamento cuidadoso para eventos de grande porte.
 
