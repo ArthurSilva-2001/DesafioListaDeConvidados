@@ -11,7 +11,7 @@ O problema central envolve a otimização da seleção e alocação de 100 convi
 - **Disponibilidade para transporte VIP**.
 
 ## Dados da Resolução
-Para resolver o problema empiricamente, consideramos as seguintes etapas:
+Para resolver o problema consideramos as seguintes etapas:
 
 ### 1. Identificação dos Participantes
 Os 1000 convidados potenciais são analisados de acordo com os seguintes critérios:
